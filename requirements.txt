@@ -1,0 +1,30 @@
+# Alcohol Vision LLM Assistant
+# Intel XPU (Arrow Lake iGPU) setup
+#
+# STEP 1 — Install PyTorch with Intel XPU support first:
+#   Visit https://pytorch-extension.intel.com/installation
+#   and copy the pip command for your OS + XPU.
+#   It will look like:
+#     pip install torch torchvision torchaudio \
+#       --index-url https://pytorch-extension.intel.com/release-whl/stable/xpu/us/
+#
+# STEP 2 — Then install everything else:
+#   pip install -r requirements.txt
+
+# Intel Extension for PyTorch (XPU backend)
+intel-extension-for-pytorch
+
+# HuggingFace ecosystem
+transformers>=4.40.0
+accelerate>=0.27.0
+huggingface_hub
+
+# Image handling
+Pillow>=10.0.0
+
+# UI
+gradio>=4.0.0
+
+# Utilities
+numpy
+tqdm
