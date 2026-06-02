@@ -2,7 +2,12 @@
 
 A multimodal AI assistant that identifies alcohol from images and answers questions about origin, production, benefits, and health risks.
 
-Built with HuggingFace open-source models, PyTorch or PyTorch with XPU.
+Built with HuggingFace open-source models, PyTorch with XPU.
+
+<img width="1822" height="883" alt="image" src="https://github.com/user-attachments/assets/6a58a93a-740b-4a4f-8392-0a980ea2a5c3" />
+
+
+
 ---
 
 ## How it works
