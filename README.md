@@ -35,9 +35,7 @@ alcohol-vision-llm/
 ## Setup
 
 ### 1. Install PyTorch with XPU support
-
-Visit https://pytorch-extension.intel.com/installation and follow the instructions for your OS. It will give you a command like:
-
+  from: https://download.pytorch.org/whl/xpu
 ### 2. Install remaining dependencies
 
 ```bash
