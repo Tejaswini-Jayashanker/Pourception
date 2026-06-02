@@ -27,8 +27,7 @@ alcohol-vision-llm/
 ├── phi3p5-instruct.py          ← multimodal LLM loader
 ├── prompt.py                   ← full pipeline + Gradio UI  ← run this
 ├── requirements.txt
-└── assets/
-    └── sample_images/
+└── example_output.png
 ```
 
 ---
