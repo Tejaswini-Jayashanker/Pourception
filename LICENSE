@@ -1,5 +1,4 @@
 MIT License
-
 Copyright (c) 2026 Tejaswini Jayashanker
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -19,3 +18,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Third-party components used in this project:
+
+- PyTorch — BSD 3-Clause License
+- HuggingFace Transformers — Apache 2.0 License
+- CLIP (openai/clip-vit-base-patch32) — MIT License
+- Phi-3.5-vision-instruct (microsoft) — MIT License + Microsoft Acceptable Use Policy
+- Gradio — Apache 2.0 License
